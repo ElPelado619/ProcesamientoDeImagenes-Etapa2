@@ -12,8 +12,8 @@ Esta entrega se compone de tres carpetas:
 Cada una de estas carpetas contiene un directorio `/imagenes` con los archivos utilizados para ejecutar los notebooks. No es necesario modificar los contenidos de los notebooks ni las imágenes.
 
 ## Recomendaciones para la Ejecución
-Para poder replicar los resultados, se recomienda crear un entorno virtual e instalar las depedencias contenidas en [requirements.txt](requirements.txt) antes de ejecutar cada Notebook. 
+Para poder replicar los resultados, se recomienda crear un entorno virtual e instalar las depedencias contenidas en [environment.yml](environment.yml) antes de ejecutar cada Notebook. 
 
-Se ha utilizado Python 3.12 como Kernel para ejecutar los notebooks y para generar el archivo [requirements.txt](requirements.txt).
+Se ha utilizado Conda con Python 3.12.9 como Kernel para ejecutar los notebooks y para generar el archivo [environment.yml](environment.yml).
 
 Se recomienda usar Visual Studio Code para ir ejecutando cada Notebook a medida que se van leyendo los informes.
